@@ -18,7 +18,7 @@ class App extends Component{
 }
 var styles={
   hdrStyle:{fontWeight:"bold",fontFamily:"arial",textAlign:"center"},
-  wrapperStyle:{width:"fit-content",maxWidth:"900px",padding:"1em",fontFamily:"arial",fontSize:"1.5em",lineHeight:"1.5em"},
+  wrapperStyle:{width:"fit-content",maxWidth:"900px",padding:"1em",fontFamily:"arial",fontSize:"1.5em",lineHeight:"1.5em",margin:"auto"},
   largeGap:{margin:"2em 0"}
 }
 
