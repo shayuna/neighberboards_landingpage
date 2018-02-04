@@ -10,7 +10,7 @@ class App extends Component{
         <article style={styles.smallGap}>just enable location services in order for us to get your location (this is done only once and should be done from home)</article>
         <article style={styles.smallGap}>you can, if you like, give us your phone number, in order to receive and send sms to and from your neighbours.</article>
         <article style={styles.smallGap}>that's all. from here on, you have access to the digital neighbourhood bulletin board. you can post messages and respond to your neighbours messages.</article>
-        <article style={styles.smallGap}>enjoy neighberboards.</article>
+        <article style={styles.smallGap}>enjoy neighberboards...</article>
         <article style={styles.largeGap}>to install neighberboards on your android device press <a href="./resources/neighberboards.apk">here</a></article>
       </section>
     )
